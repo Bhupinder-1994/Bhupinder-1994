@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working in Deep Learning/Machine Learning Projects. Building skills and learning new technologies like RAG and AI Agents. 
+Machine Learning Engineer with 5+ years of experience in deep learning and applied AI. Currently focused on building AI Agents and Retrieval-Augmented Generation (RAG) systems using LLMs.
+
+🛠️ Tech: Python, PyTorch, TensorFlow, Hugging Face, SQL, Docker, FastAPI, AWS
+🚀 Interests: Deep Learning, LLM agents, RAG pipelines, embeddings, scalable ML systems
+🏆 Co-inventor of a patented AI-powered prosthetic hand
 
 
 ## 🌐 Socials:
