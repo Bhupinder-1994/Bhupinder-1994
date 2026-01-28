@@ -1,9 +1,17 @@
 # 💫 About Me:
-Machine Learning Engineer with 5+ years of experience in deep learning and applied AI. Currently focused on building AI Agents and Retrieval-Augmented Generation (RAG) systems using LLMs.
+# Bhupinder Singh
 
-🛠️ Tech: Python, PyTorch, TensorFlow, Hugging Face, SQL, Docker, FastAPI, AWS
-🚀 Interests: Deep Learning, LLM agents, RAG pipelines, embeddings, scalable ML systems
-🏆 Co-inventor of a patented AI-powered prosthetic hand
+**Machine Learning Engineer** | 2 Granted Patents 🏆 | Embedded AI Specialist
+
+Building intelligent systems from concept to deployment. Specialized in:
+- 🤖 Real-time AI on embedded hardware
+- 🧠 Deep Learning (PyTorch, TensorFlow)
+- 🚀 LLMs, RAG, and AI Agents
+- ☁️ MLOps (Docker, AWS, ONNX)
+
+**Patent Holder**: Co-invented AI-driven prosthetic systems with lightweight CNNs for real-time inference.
+
+📍 Dublin, Ireland | 📧 erbhupindersingh1994@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/bhupinder-singh-4047a5103/)
 
 
 ## 🌐 Socials:
